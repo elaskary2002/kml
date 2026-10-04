@@ -1,0 +1,8 @@
+{
+  "name": "Remix KML to DXF Pro",
+  "description": "High-precision KML/KMZ to AutoCAD DXF converter with geographic coordinate projection, UTM transformation, and CAD preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
